@@ -10,7 +10,7 @@
 This repository contains practical assignments completed for COS 201 – Computer Programming I.
 
 ## Week 1: Introduction to Programming
-Introduction to programming concepts and the importance of programming in Computer Science.
+Introduction to programming concepts and the importance of programming in Cyber Security.
 
 ## Week 2: First Java Program
 Introduction to Java programming and writing basic Java programs.
